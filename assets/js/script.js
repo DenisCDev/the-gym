@@ -66,4 +66,4 @@ function aos_init() {
 }
 window.addEventListener('load', () => {
   aos_init();
-});
+}); 
